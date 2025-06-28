@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Juan Ignacio Casas
 
-<!--
-**Juan-Casas/Juan-Casas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Soy estudiante avanzado de la carrera **Ingenieria Informatica** en proceso de realizar la Tesis para titularme.
+    Ademas soy **Tecnico Informatico** y **Analista Programador Universitario**.
 
-Here are some ideas to get you started:
+📊 **Analista de Datos Jr.** con formación en análisis exploratorio, visualización de datos y modelado básico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Stack:
+- **Lenguajes:** Python (Pandas, Matplotlib, Seaborn), SQL
+- **Herramientas:** Power BI, Jupyter Notebook, Excel, Azure, AWS
+
+🚀 Actualmente trabajando en:
+- Proyectos personales de análisis de datos usando datasets públicos (Kaggle, OpenData)
+- Armado de portafolio con casos reales de negocio
+
+🔗 Conectá conmigo:
+[LinkedIn](www.linkedin.com/in/juanicasas) | [Correo](juanicasas02@gmail.com)
